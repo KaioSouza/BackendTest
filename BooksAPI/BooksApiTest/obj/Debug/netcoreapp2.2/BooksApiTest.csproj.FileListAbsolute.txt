@@ -1,0 +1,14 @@
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\BooksApiTest.deps.json
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\BooksApiTest.runtimeconfig.json
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\BooksApiTest.runtimeconfig.dev.json
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\BooksApiTest.dll
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\bin\Debug\netcoreapp2.2\BooksApiTest.pdb
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.csprojAssemblyReference.cache
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.AssemblyInfoInputs.cache
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.AssemblyInfo.cs
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.dll
+C:\Users\y\Desktop\BooksAPI\BooksApiTest\obj\Debug\netcoreapp2.2\BooksApiTest.pdb
